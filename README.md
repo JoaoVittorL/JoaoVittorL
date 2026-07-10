@@ -6,3 +6,4 @@
 
 - 📧 Email: [vittorsantos234@gmail.com](mailto:seu-email@exemplo.com)  
 - 💼 LinkedIn: [João Vittor](https://www.linkedin.com/in/joão-vittor-l-199103201/)
+- 🎞 Portfólio: [MyPortfolio](https://vittorlopes.vercel.app/)
