@@ -71,11 +71,6 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoVittorL&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de João Vittor" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVittorL&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por João Vittor" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JoaoVittorL&theme=tokyonight&locale=pt_BR&hide_border=true" alt="Sequência de contribuições de João Vittor" />
 </p>
 
