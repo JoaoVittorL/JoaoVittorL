@@ -7,7 +7,12 @@ Gosto de código que dá para confiar: testes fazem parte do meu fluxo, do unit�
 - 🔭 Atualmente: interfaces para o setor de engenharia elétrica
 - 🌱 Estudando: arquitetura front-end e boas práticas do ecossistema React
 - 💬 Pode me perguntar sobre: React, Next.js, React Native, TypeScript e testes
-- 🎨 Meu portfólio: [vittorlopes.vercel.app](https://vittorlopes.vercel.app/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVittorL/JoaoVittorL/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVittorL/JoaoVittorL/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo minhas contribuições" src="https://raw.githubusercontent.com/JoaoVittorL/JoaoVittorL/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 📫 Onde me encontrar
 
