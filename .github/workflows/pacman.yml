@@ -21,6 +21,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # Troca os verdes padrao do GitHub pela paleta teal do portfolio
+      # (tailwind accent: 200/400/600/800 no claro, 900/700/500/300 no escuro)
+      - name: apply portfolio teal palette
+        run: |
+          sed -i 's/#9be9a8/#99f6e4/gI; s/#40c463/#2dd4bf/gI; s/#30a14e/#0d9488/gI; s/#216e39/#115e59/gI' dist/pacman-contribution-graph.svg
+          sed -i 's/#0e4429/#134e4a/gI; s/#006d32/#0f766e/gI; s/#26a641/#14b8a6/gI; s/#39d353/#5eead4/gI' dist/pacman-contribution-graph-dark.svg
+
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
