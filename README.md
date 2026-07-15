@@ -14,3 +14,5 @@ Gosto de código que dá para confiar: testes fazem parte do meu fluxo, do unit�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Vittor-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vittor-l-199103201/)
 [![E-mail](https://img.shields.io/badge/E--mail-vittorsantos234@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vittorsantos234@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-vittorlopes.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://vittorlopes.vercel.app/)
+
+![Visitantes do perfil](https://komarev.com/ghpvc/?username=JoaoVittorL&color=555&style=flat&label=Visitantes)
