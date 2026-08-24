@@ -6,7 +6,6 @@ Gosto de código que dá para confiar: testes fazem parte do meu fluxo, do unit�
 
 - 🔭 Atualmente: interfaces para o setor de engenharia elétrica
 - 🌱 Estudando: arquitetura front-end e boas práticas do ecossistema React
-- 💬 Pode me perguntar sobre: React, Next.js, React Native, TypeScript e testes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVittorL/JoaoVittorL/output/pacman-contribution-graph-dark.svg">
