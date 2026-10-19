@@ -1,5 +1,3 @@
-# Olá! Eu sou o João Vittor 👋
-
 Desenvolvedor front-end e mobile na **Ecoelétrica Engenharia**, em Vitória da Conquista – BA. No dia a dia construo aplicações web com **React, Next.js e TypeScript** e apps mobile com **React Native**.
 
 Gosto de código que dá para confiar: testes fazem parte do meu fluxo, do unitário ao E2E — Vitest, Testing Library e Playwright são companheiros de todo projeto.
